@@ -1,0 +1,11 @@
+{
+    "route_requests": {
+        "course_catalog": 1,
+        "add_course": 1
+    },
+    "route_processing_time": {
+        "course_catalog": 0.054688215255737305,
+        "add_course": 0.00899958610534668
+    },
+    "errors": {}
+}

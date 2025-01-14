@@ -1,0 +1,125 @@
+2025-01-11 19:59:10,553 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-11 19:59:10,554 INFO [33mPress CTRL+C to quit[0m
+2025-01-11 19:59:10,560 INFO  * Restarting with stat
+2025-01-11 19:59:12,123 WARNING  * Debugger is active!
+2025-01-11 19:59:12,137 INFO  * Debugger PIN: 104-734-970
+2025-01-11 19:59:16,702 INFO User Accessed the Index page.
+2025-01-11 19:59:16,727 INFO 127.0.0.1 - - [11/Jan/2025 19:59:16] "GET / HTTP/1.1" 200 -
+2025-01-11 19:59:18,172 INFO User Accessed the course_catalog page.
+2025-01-11 19:59:18,181 INFO 127.0.0.1 - - [11/Jan/2025 19:59:18] "GET /catalog HTTP/1.1" 200 -
+2025-01-11 19:59:19,311 INFO User Accessed the add_course page.
+2025-01-11 19:59:19,318 INFO 127.0.0.1 - - [11/Jan/2025 19:59:19] "GET /addCourse HTTP/1.1" 200 -
+2025-01-11 20:00:37,602 INFO  * Detected change in 'C:\\Users\\JENIL\\Desktop\\LABS SEM-2\\Software Tools & Techniques for AI\\LabWork\\app.py', reloading
+2025-01-11 20:00:37,682 INFO  * Restarting with stat
+2025-01-11 20:00:39,502 WARNING  * Debugger is active!
+2025-01-11 20:00:39,522 INFO  * Debugger PIN: 104-734-970
+2025-01-11 20:00:43,912 INFO User Accessed the add_course page.
+2025-01-11 20:00:43,935 INFO 127.0.0.1 - - [11/Jan/2025 20:00:43] "GET /addCourse HTTP/1.1" 200 -
+2025-01-11 20:01:50,489 INFO  * Detected change in 'C:\\Users\\JENIL\\Desktop\\LABS SEM-2\\Software Tools & Techniques for AI\\LabWork\\app.py', reloading
+2025-01-11 20:01:50,571 INFO  * Restarting with stat
+2025-01-11 20:01:56,112 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-11 20:01:56,113 INFO [33mPress CTRL+C to quit[0m
+2025-01-11 20:02:01,709 INFO User Accessed the add_course page.
+2025-01-11 20:02:01,735 INFO 127.0.0.1 - - [11/Jan/2025 20:02:01] "GET /addCourse HTTP/1.1" 200 -
+2025-01-11 20:02:14,130 INFO User Accessed the Index page.
+2025-01-11 20:02:14,135 INFO 127.0.0.1 - - [11/Jan/2025 20:02:14] "GET / HTTP/1.1" 200 -
+2025-01-11 20:04:37,801 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-11 20:04:37,801 INFO [33mPress CTRL+C to quit[0m
+2025-01-11 20:04:40,354 INFO User Accessed the Index page.
+2025-01-11 20:04:40,372 INFO 127.0.0.1 - - [11/Jan/2025 20:04:40] "GET / HTTP/1.1" 200 -
+2025-01-11 20:04:42,991 INFO User Accessed the course_catalog page.
+2025-01-11 20:04:43,000 INFO 127.0.0.1 - - [11/Jan/2025 20:04:43] "GET /catalog HTTP/1.1" 200 -
+2025-01-11 20:45:37,341 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.7.53.54:5000
+2025-01-11 20:45:37,342 INFO [33mPress CTRL+C to quit[0m
+2025-01-12 21:36:59,886 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.1.149.3:5000
+2025-01-12 21:36:59,890 INFO [33mPress CTRL+C to quit[0m
+2025-01-12 21:37:02,551 INFO User Accessed the Index page.
+2025-01-12 21:37:02,635 INFO 127.0.0.1 - - [12/Jan/2025 21:37:02] "GET / HTTP/1.1" 200 -
+2025-01-12 21:37:47,879 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.1.149.3:5000
+2025-01-12 21:37:47,880 INFO [33mPress CTRL+C to quit[0m
+2025-01-12 21:37:47,889 INFO  * Restarting with stat
+2025-01-12 21:37:49,690 WARNING  * Debugger is active!
+2025-01-12 21:37:49,703 INFO  * Debugger PIN: 104-734-970
+2025-01-12 21:37:49,761 INFO User Accessed the Index page.
+2025-01-12 21:37:49,781 INFO 127.0.0.1 - - [12/Jan/2025 21:37:49] "GET / HTTP/1.1" 200 -
+2025-01-12 21:38:14,807 INFO User Accessed the course_catalog page.
+2025-01-12 21:38:14,842 INFO 127.0.0.1 - - [12/Jan/2025 21:38:14] "GET /catalog HTTP/1.1" 200 -
+2025-01-14 21:18:07,875 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.7.53.54:5000
+2025-01-14 21:18:07,876 INFO [33mPress CTRL+C to quit[0m
+2025-01-14 21:18:07,884 INFO  * Restarting with stat
+2025-01-14 21:18:09,683 WARNING  * Debugger is active!
+2025-01-14 21:18:09,704 INFO  * Debugger PIN: 104-734-970
+2025-01-14 21:18:24,508 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.7.53.54:5000
+2025-01-14 21:18:24,509 INFO [33mPress CTRL+C to quit[0m
+2025-01-14 21:18:24,519 INFO  * Restarting with stat
+2025-01-14 21:18:31,864 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.7.53.54:5000
+2025-01-14 21:18:31,864 INFO [33mPress CTRL+C to quit[0m
+2025-01-14 21:18:31,871 INFO  * Restarting with stat
+2025-01-14 21:18:33,545 WARNING  * Debugger is active!
+2025-01-14 21:18:33,566 INFO  * Debugger PIN: 104-734-970
+2025-01-14 21:19:28,380 INFO User Accessed the Index page.
+2025-01-14 21:19:28,466 INFO 127.0.0.1 - - [14/Jan/2025 21:19:28] "GET / HTTP/1.1" 200 -
+2025-01-14 21:19:28,744 INFO 127.0.0.1 - - [14/Jan/2025 21:19:28] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-01-14 21:19:32,885 INFO User Accessed the course_catalog page.
+2025-01-14 21:19:32,916 INFO 127.0.0.1 - - [14/Jan/2025 21:19:32] "GET /catalog HTTP/1.1" 200 -
+2025-01-14 21:36:53,318 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.7.53.54:5000
+2025-01-14 21:36:53,319 INFO [33mPress CTRL+C to quit[0m
+2025-01-14 21:36:53,327 INFO  * Restarting with stat
+2025-01-14 21:36:54,977 WARNING  * Debugger is active!
+2025-01-14 21:36:54,993 INFO  * Debugger PIN: 104-734-970
+2025-01-14 21:40:58,409 INFO  * Detected change in 'C:\\Users\\JENIL\\Desktop\\LABS SEM-2\\Software Tools & Techniques for AI\\LabWork\\app.py', reloading
+2025-01-14 21:40:58,481 INFO  * Restarting with stat
+2025-01-14 21:41:02,932 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-14 21:41:02,932 INFO [33mPress CTRL+C to quit[0m
+2025-01-14 21:41:02,940 INFO  * Restarting with stat
+2025-01-14 21:41:04,707 WARNING  * Debugger is active!
+2025-01-14 21:41:04,725 INFO  * Debugger PIN: 104-734-970
+2025-01-14 21:41:20,910 INFO User Accessed the Index page.
+2025-01-14 21:41:20,927 INFO 127.0.0.1 - - [14/Jan/2025 21:41:20] "GET / HTTP/1.1" 200 -
+2025-01-14 21:41:23,148 INFO User Accessed the course_catalog page.
+2025-01-14 21:41:23,157 INFO 127.0.0.1 - - [14/Jan/2025 21:41:23] "GET /catalog HTTP/1.1" 200 -
+2025-01-14 21:41:24,177 INFO User Accessed the course_catalog page.
+2025-01-14 21:41:24,179 INFO 127.0.0.1 - - [14/Jan/2025 21:41:24] "GET /catalog HTTP/1.1" 200 -
+2025-01-14 21:41:29,023 INFO User Accessed the add_course page.
+2025-01-14 21:41:29,067 INFO 127.0.0.1 - - [14/Jan/2025 21:41:29] "GET /addCourse HTTP/1.1" 200 -
+2025-01-14 21:42:41,839 INFO User Accessed the add_course page.
+2025-01-14 21:42:41,870 INFO 127.0.0.1 - - [14/Jan/2025 21:42:41] "GET /addCourse HTTP/1.1" 200 -
+2025-01-14 21:43:13,788 INFO User Accessed the add_course page.
+2025-01-14 21:43:13,817 INFO 127.0.0.1 - - [14/Jan/2025 21:43:13] "GET /addCourse HTTP/1.1" 200 -
+2025-01-14 21:43:34,676 INFO User Accessed the add_course page.
+2025-01-14 21:43:34,707 INFO 127.0.0.1 - - [14/Jan/2025 21:43:34] "GET /addCourse HTTP/1.1" 200 -
+2025-01-14 21:44:51,989 INFO User Accessed the add_course page.
+2025-01-14 21:44:51,991 INFO 127.0.0.1 - - [14/Jan/2025 21:44:51] "GET /addCourse HTTP/1.1" 200 -
+2025-01-14 21:45:59,411 INFO User Accessed the add_course page.
+2025-01-14 21:45:59,437 INFO 127.0.0.1 - - [14/Jan/2025 21:45:59] "GET /addCourse HTTP/1.1" 200 -
+2025-01-14 21:46:08,922 INFO User Accessed the add_course page.
+2025-01-14 21:46:08,949 INFO 127.0.0.1 - - [14/Jan/2025 21:46:08] "GET /addCourse HTTP/1.1" 200 -
+2025-01-14 22:12:02,577 INFO  * Detected change in 'C:\\Users\\JENIL\\Desktop\\LABS SEM-2\\Software Tools & Techniques for AI\\LabWork\\app.py', reloading
+2025-01-14 22:12:02,730 INFO  * Restarting with stat
+2025-01-14 22:12:04,620 WARNING  * Debugger is active!
+2025-01-14 22:12:04,634 INFO  * Debugger PIN: 104-734-970
