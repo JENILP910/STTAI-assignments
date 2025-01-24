@@ -1,0 +1,57 @@
+    1  history
+    2  sudo apt list | grep -i python3.10
+    3  chmod -x ./a.bash 
+    4  ./a.bash
+    5  ls
+    6  ls -l
+    7  chmod -x ./a.bash 
+    8  ./a.bash
+    9  ls -l
+   10  chmod +x ./a.bash 
+   11  ./a.bash
+   12  python -V
+   13  ./configure --prefix=$HOME/local/python3.10
+   14  cd Python-3.10.12
+   15  cd ./Python-3.10.12
+   16  cd ./local/Python-3.10.12
+   17  cd $HOME/local/python3.10
+   18  ./a.bash
+   19  cd home
+   20  cd $home
+   21  ./a.bash
+   22  cd $HOME/local/Python-3.10.12
+   23  cd $home
+   24  ./a.bash
+   25  cd $HOME/local/Python-3.10.12
+   26  cd $home
+   27  ./a.bash
+   28  sudo apt update
+   29  sudo apt install -y build-essential libssl-dev zlib1g-dev libncurses5-dev libnss3-dev libsqlite3-dev libreadline-dev libffi-dev libbz2-dev
+   30  cd Python-3.10.12
+   31  ./a.bash
+   32  python3.10 --version
+   33  py -V
+   34  python3.11 --version
+   35  ./a.bash
+   36  echo 'export PATH=$HOME/local/python3.10.16/bin:$PATH' >> ~/.bashrc
+   37  source ~/.bashrc
+   38  echo 'export PATH=$HOME/local/python3.10.16/bin:$PATH' >> ~/.bashrc
+   39  source ~/.bashrc
+   40  python3.10 --version
+   41  ./a.bash
+   42  $HOME/local/python3.10/bin/python3.10.16 --version
+   43  $HOME/local/python3.10/bin/python3.10 --version
+   44  ./a
+   45  ./a.bash
+   46  py -V
+   47  python -V
+   48  python3 -V
+   49  python3 -m pip --version
+   50  python3 -m ensurepip --upgrade
+   51  python3 -m venv pyEnv
+   52  source my_python_env/bin/activate
+   53  source pyEnv/bin/activate
+   54  python --version
+   55  pip install label-studio
+   56  label-studio start
+   57  history > user_history.txt
