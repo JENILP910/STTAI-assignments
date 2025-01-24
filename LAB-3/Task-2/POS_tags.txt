@@ -1,0 +1,20 @@
+<View>
+  <Labels name="label" toName="text">
+  	<Label value="NOUN" background="#FFA39E"/>
+    <Label value="PROPN" background="#D4380D"/>
+    <Label value="VERB" background="#FFC069"/>
+    <Label value="ADJ" background="#AD8B00"/>
+    <Label value="ADV" background="#D3F261"/>
+    <Label value="ADP" background="#389E0D"/>
+    <Label value="PRON" background="#5CDBD3"/>
+    <Label value="DET" background="#096DD9"/>
+    <Label value="CONJ" background="#ADC6FF"/>
+    <Label value="PART" background="#9254DE"/>
+    <Label value="PRON_WH" background="#F759AB"/>
+    <Label value="PART_NEG" background="#FFA39E"/>
+    <Label value="NUM" background="#D4380D"/>
+    <Label value="X" background="#FFC069"/>
+  </Labels>
+
+  <Text name="text" value="$text"/>
+</View>
